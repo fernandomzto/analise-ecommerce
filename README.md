@@ -17,7 +17,8 @@ Aplicar e consolidar os conhecimentos iniciais adquiridos em análise de dados e
 
 ##  Base de Dados
 
-[Fonte dos dados]: (https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis)
+Os dados utilizados neste projeto foram obtidos no Kaggle:  
+[E-commerce Sales Analysis Dataset – por Fahmida Chowdhury](https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis)
 
 A base de dados é fictícia e representa um e-commerce com os seguintes campos:
 - Informações sobre os produtos: nome, categoria, preço, pontuação de avaliação e número de avaliações
